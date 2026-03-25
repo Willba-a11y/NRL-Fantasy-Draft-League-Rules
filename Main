@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NRL Fantasy Draft League</title>
+  <style>
+    body {font-family: Arial, sans-serif; background:#0b0f1a; color:#fff; margin:0;}
+    header {background:#111827; padding:20px; text-align:center; border-bottom:2px solid #1f2937;}
+    h1 {margin:0; font-size:28px;}
+    .container {max-width:900px; margin:40px auto; padding:20px;}
+    .card {background:#111827; padding:20px; border-radius:12px; margin-bottom:20px; box-shadow:0 4px 10px rgba(0,0,0,0.4);} 
+    h2 {color:#60a5fa;}
+    h3 {color:#93c5fd;}
+    p {line-height:1.6;}
+    footer {text-align:center; padding:20px; font-size:12px; color:#9ca3af;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>NRL Fantasy Draft League</h1>
+  <p>Official Rulebook | Established 2017</p>
+</header>
+
+<div class="container">
+
+<div class="card"><h2>Section 1 – League Structure</h2>
+<p>1.1 League consists of registered members.</p>
+<p>1.2 Teams must maintain full rosters.</p>
+<p>1.3 Format set before season.</p>
+<p>1.4 Members agree to rules upon entry.</p>
+<p>1.5 Commissioner may adjust structure if required.</p></div>
+
+<div class="card"><h2>Section 2 – Draft Rules</h2>
+<p>2.1 Draft order is random or agreed.</p>
+<p>2.2 Picks must be made within time limits.</p>
+<p>2.3 Auto-draft applies if time expires.</p>
+<p>2.4 Drafted players belong to that team.</p>
+<p>2.5 Commissioner resolves disputes.</p></div>
+
+<div class="card"><h2>Section 3 – Team Management</h2>
+<p>3.1 Teams must remain active.</p>
+<p>3.2 Inactivity may result in intervention.</p>
+<p>3.3 Lineups must be set weekly.</p>
+<p>3.4 Injured players may be replaced.</p>
+<p>3.5 Tanking is prohibited.</p></div>
+
+<div class="card"><h2>Section 4 – Scoring System</h2>
+<p>4.1 Points follow official scoring.</p>
+<p>4.2 Weekly matchups determine standings.</p>
+<p>4.3 Tie-breakers apply if needed.</p>
+<p>4.4 Scoring updates follow platform.</p>
+<p>4.5 Commissioner resolves disputes.</p></div>
+
+<div class="card"><h2>Section 5 – Trades</h2>
+<p>5.1 Trades must use official system.</p>
+<p>5.2 Trades may be reviewed.</p>
+<p>5.3 Collusion is prohibited.</p>
+<p>5.4 Commissioner may veto trades.</p>
+<p>5.5 Trade deadlines apply.</p></div>
+
+<div class="card"><h2>Section 6 – Free Agency</h2>
+<p>6.1 Free agents available to all.</p>
+<p>6.2 Waiver priority may apply.</p>
+<p>6.3 Players can be added/dropped.</p>
+<p>6.4 Abuse of free agency prohibited.</p>
+<p>6.5 Commissioner may intervene.</p></div>
+
+<div class="card"><h2>Section 7 – Player Movement</h2>
+<p>7.1 Trades must use official system.</p>
+<p>7.2 Using free agency to simulate trades is prohibited.</p>
+<p>7.3 This is considered circumvention and collusion.</p>
+<p>7.4 Violations result in penalties.</p>
+<p>7.5 Penalties include reversal, suspension, removal.</p></div>
+
+<div class="card"><h2>Section 8 – Waivers</h2>
+<p>8.1 Waiver priority determines claims.</p>
+<p>8.2 Claims must meet deadlines.</p>
+<p>8.3 Priority resets after claims.</p>
+<p>8.4 Manipulation is prohibited.</p>
+<p>8.5 Commissioner decisions final.</p></div>
+
+<div class="card"><h2>Section 9 – Integrity</h2>
+<p>9.1 Members must act in good faith.</p>
+<p>9.2 Collusion prohibited.</p>
+<p>9.3 Exploitation is misconduct.</p>
+<p>9.4 Unfair targeting not allowed.</p>
+<p>9.5 Penalties include suspension/removal.</p></div>
+
+<div class="card"><h2>Section 10 – Commissioner Authority</h2>
+<p>10.1 Commissioner enforces rules.</p>
+<p>10.2 May interpret unclear rules.</p>
+<p>10.3 Decisions are final.</p>
+<p>10.4 Can act to preserve integrity.</p>
+<p>10.5 Members accept this authority.</p></div>
+
+</div>
+
+<footer>
+  © 2017–2026 NRL Fantasy Draft League. All rights reserved.
+</footer>
+
+</body>
+</html>
